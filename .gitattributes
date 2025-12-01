@@ -1,0 +1,2 @@
+data/episodes/*.avi filter=lfs diff=lfs merge=lfs -text
+data/audio/*.wav filter=lfs diff=lfs merge=lfs -text
