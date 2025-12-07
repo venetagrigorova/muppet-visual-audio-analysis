@@ -1,0 +1,6 @@
+# This project is intended to be run with conda, for quick experiments we use uv.
+# To avoid cluttering the repo we just ignore any uv artefacts.
+.venv/
+.python-version
+pyproject.toml
+uv.lock
