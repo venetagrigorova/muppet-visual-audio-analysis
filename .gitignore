@@ -4,3 +4,7 @@
 .python-version
 pyproject.toml
 uv.lock
+
+# dataset
+
+datasets_cache.npz
