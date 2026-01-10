@@ -8,3 +8,4 @@ uv.lock
 # dataset
 
 datasets_cache.npz
+data/*.npz
