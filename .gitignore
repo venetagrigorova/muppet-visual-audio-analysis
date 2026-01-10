@@ -9,3 +9,6 @@ uv.lock
 
 datasets_cache.npz
 data/*.npz
+data/episodes/*.avi
+data/audio/*.wav
+data/ground_truth/*.xlsx
